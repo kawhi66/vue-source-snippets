@@ -1,4 +1,7 @@
 ```JavaScript
+/**
+ * @path src/core/instance/init.js
+ */
 Vue.prototype._init = function (options ? : Object) {
     const vm: Component = this
     // a uid

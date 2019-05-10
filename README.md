@@ -4,3 +4,5 @@ A collection of [Vue(V2.6.10)](https://github.com/vuejs/vue) source code snippet
 
 -   [Vue.constructor](Vue.constructor.md)
 -   [Vue.prototype.\_init](Vue.prototype._init.md)
+-   [Vue.instance.initState](Vue.instance.initState.md)
+-   [Vue.instance.initData](Vue.instance.initData.md)
