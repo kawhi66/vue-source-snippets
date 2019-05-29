@@ -12,3 +12,4 @@ A collection of [Vue(V2.6.10)](https://github.com/vuejs/vue) source code snippet
 -   [Dep](observer/Dep.md)
 -   [Watcher](observer/Watcher.md)
 -   [defineReactive](observer/defineReactive.md)
+-   [constants](constants.md)
