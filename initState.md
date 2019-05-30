@@ -2,6 +2,14 @@
 /**
  * @path src/core/instance/state.js
  */
+ import {
+  set,
+  del,
+  observe,
+  defineReactive,
+  toggleObserving
+} from '../observer/index'
+
 function initState (vm: Component) {
   vm._watchers = []
   const opts = vm.$options

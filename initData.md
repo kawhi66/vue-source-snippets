@@ -2,6 +2,14 @@
 /**
  * @path src/core/instance/state.js
  */
+ import {
+   set,
+   del,
+   observe,
+   defineReactive,
+   toggleObserving
+ } from '../observer/index'
+
 function initData (vm: Component) {
   let data = vm.$options.data
   data = vm._data = typeof data === 'function'
