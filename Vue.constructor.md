@@ -18,8 +18,8 @@ function Vue(options) {
 }
 
 initMixin(Vue)
-stateMixin(Vue) // ta - da
+stateMixin(Vue)
 eventsMixin(Vue)
 lifecycleMixin(Vue)
-renderMixin(Vue)
+renderMixin(Vue) // TODO: 
 ```
