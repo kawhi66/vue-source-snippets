@@ -5,6 +5,7 @@ A collection of [Vue(V2.6.10)](https://github.com/vuejs/vue) source code snippet
 -   [Vue.constructor](Vue.constructor.md)
 -   [Vue.prototype.\_init](Vue.prototype._init.md)
 -   [Vue.prototype.\_update](Vue.prototype._update.md)
+-   [Vue.prototype.\_render](Vue.prototype._render.md)
 
 -   [Vue.prototype.$data](Vue.prototype.$data.md)
 -   [Vue.prototype.$props](Vue.prototype.$props.md)
@@ -17,6 +18,7 @@ A collection of [Vue(V2.6.10)](https://github.com/vuejs/vue) source code snippet
 -   [Vue.prototype.$emit](Vue.prototype.$emit.md)
 -   [Vue.prototype.$forceUpdate](Vue.prototype.$forceUpdate.md)
 -   [Vue.prototype.$destroy](Vue.prototype.$destroy.md)
+-   [Vue.prototype.$nextTick](Vue.prototype.$nextTick.md)
 
 -   [initState](initState.md)
 -   [initData](initData.md)
@@ -30,6 +32,7 @@ A collection of [Vue(V2.6.10)](https://github.com/vuejs/vue) source code snippet
 -   [initProvide](initProvide.md)
 -   [callHook](callHook.md)
 -   [proxy](proxy.md)
+-   [nextTick](next-tick.md)
 
 -   [observe](observer/observe.md)
 -   [Observer](observer/Observer.md)

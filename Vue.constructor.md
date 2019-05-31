@@ -21,5 +21,5 @@ initMixin(Vue)
 stateMixin(Vue)
 eventsMixin(Vue)
 lifecycleMixin(Vue)
-renderMixin(Vue) // TODO: 
+renderMixin(Vue)
 ```
